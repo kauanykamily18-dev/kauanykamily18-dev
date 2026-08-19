@@ -1,32 +1,28 @@
-# README.md
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
 <div align="center">
 
 <samp>
 
-<b>KAUANY KAMILY</b>
+<b>SOFTWARE ENGINEERING STUDENT</b>
 
-Software Engineering Student
+<br>
 
-Building systems, interfaces & ideas.
+Olá, meu nome é <b>Kauany Kamily</b>!
+
+<br>
+
+Construindo sistemas, interfaces e ideias fora da caixa.
 
 </samp>
 
+</div>
+
 <br>
 
-<a href="https://github.com/kauanykamily18-dev">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="SEU_LINKEDIN_AQUI">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="SEU_PORTFOLIO_AQUI">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=Software+Engineering+Student;Web+Development+%7C+Automation+%7C+UI%2FUX;Building+real-world+systems;Python+%7C+JavaScript+%7C+Flask+%7C+PostgreSQL;Turning+ideas+into+working+products;Always+building+something+new."/>
 
 </div>
 
@@ -34,273 +30,325 @@ Building systems, interfaces & ideas.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=Software+Engineering+Student;Building+real-world+systems;Web+Development+%7C+Automation+%7C+UI%2FUX;Python+%7C+JavaScript+%7C+Flask+%7C+PostgreSQL;Turning+ideas+into+working+products."/>
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkauanykamily18-dev&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
 
+</p>
+
 </div>
 
 <br>
 
-## `> about_me`
+<div align="center">
 
-```python
-class Kauany:
+<img width="180" src="https://i.imgur.com/8M4zC7E.gif" />
 
-    name = "Kauany Kamily"
-    location = "Brazil"
-    education = "Software Engineering"
+</div>
 
-    focus = [
-        "Web Development",
-        "Automation",
-        "Business Systems",
-        "UI/UX",
-        "APIs & Integrations",
-        "Infrastructure"
-    ]
+<div align="center">
 
-    currently_building = [
-        "Radar Bioma",
-        "Ominy",
-        "Meli"
-    ]
+<img src="https://img.shields.io/badge/building%20ideas-111111?style=for-the-badge&logo=github&logoColor=5cadc0"/>
 
-    mindset = "build something different"
-```
+</div>
 
-I'm a Software Engineering student interested in creating technology that goes beyond simply working.
+<br>
 
-I like building **real-world systems, interfaces and digital products**, combining development, design, automation and problem solving.
+<div align="center">
 
-My projects range from business systems and automation to digital products and experimental ideas.
+<samp>
 
----
+<b>More Info</b>
 
-## `> what_i_build`
+</samp>
+
+</div>
+
+<br>
+
+<details align="center">
+
+<summary>
+<samp><b>click here</b></samp>
+</summary>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauanykamily18-dev&theme=nord_dark"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauanykamily18-dev&theme=nord_dark"/>
+
+<br><br>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kauanykamily18-dev&theme=nord_dark&utcOffset=-3"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauanykamily18-dev&theme=nord_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kauanykamily18-dev\&theme=nord-dark\&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp>
+
+<b>About me</b>
+
+<br><br>
+
+I'm a Software Engineering student passionate about building<br>
+real-world applications, automation and creative digital experiences.
+
+<br><br>
+
+I enjoy working across development, design and infrastructure,<br>
+turning ideas into functional products and systems.
+
+</samp>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>What I build</b></samp>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Web%20Applications-111111?style=for-the-badge&logo=googlechrome&logoColor=5cadc0"/>
+<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=python&logoColor=5cadc0"/>
+<img src="https://img.shields.io/badge/Business%20Systems-111111?style=for-the-badge&logo=server&logoColor=5cadc0"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-111111?style=for-the-badge&logo=figma&logoColor=5cadc0"/>
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-111111?style=for-the-badge&logo=fastapi&logoColor=5cadc0"/>
+<img src="https://img.shields.io/badge/Infrastructure-111111?style=for-the-badge&logo=docker&logoColor=5cadc0"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>Languages</b></samp>
+
+<br><br>
+
+<img width="48" src="https://skillicons.dev/icons?i=python"/>
+<img width="48" src="https://skillicons.dev/icons?i=js"/>
+<img width="48" src="https://skillicons.dev/icons?i=java"/>
+<img width="48" src="https://skillicons.dev/icons?i=postgres"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>Web</b></samp>
+
+<br><br>
+
+<img width="48" src="https://skillicons.dev/icons?i=html"/>
+<img width="48" src="https://skillicons.dev/icons?i=css"/>
+<img width="48" src="https://skillicons.dev/icons?i=jquery"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>Backend & Data</b></samp>
+
+<br><br>
+
+<img width="48" src="https://skillicons.dev/icons?i=flask"/>
+<img width="48" src="https://skillicons.dev/icons?i=postgres"/>
+<img width="48" src="https://skillicons.dev/icons?i=firebase"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>Automation</b></samp>
+
+<br><br>
+
+<img width="48" src="https://skillicons.dev/icons?i=python"/>
+<img width="48" src="https://skillicons.dev/icons?i=selenium"/>
+<img width="48" src="https://skillicons.dev/icons?i=git"/>
+
+<br><br>
+
+<samp>
+Playwright · Tesseract OCR · Browser Automation · Scheduled Tasks
+</samp>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>Infrastructure</b></samp>
+
+<br><br>
+
+<img width="48" src="https://skillicons.dev/icons?i=linux"/>
+<img width="48" src="https://skillicons.dev/icons?i=ubuntu"/>
+<img width="48" src="https://skillicons.dev/icons?i=docker"/>
+<img width="48" src="https://skillicons.dev/icons?i=nginx"/>
+<img width="48" src="https://skillicons.dev/icons?i=postgres"/>
+<img width="48" src="https://skillicons.dev/icons?i=git"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<samp><b>Tools & Design</b></samp>
+
+<br><br>
+
+<img width="48" src="https://skillicons.dev/icons?i=git"/>
+<img width="48" src="https://skillicons.dev/icons?i=github"/>
+<img width="48" src="https://skillicons.dev/icons?i=vscode"/>
+<img width="48" src="https://skillicons.dev/icons?i=figma"/>
+<img width="48" src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<br><br>
+
+<samp>
+Canva · Elementor · Firebase Auth · Firestore · Flask-Login · Flask-Migrate · SQLAlchemy · PWA
+</samp>
+
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+
+<samp><b>Featured Projects</b></samp>
+
+<br><br>
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### Web Applications
+<b>RADAR BIOMA</b>
 
-Business systems, dashboards, e-commerce, landing pages and PWAs.
+<br><br>
 
-</td>
+System for monitoring<br>
+CAR records with<br>
+automated SIMCAR<br>
+consultation.
 
-<td width="50%">
+<br><br>
 
-### Automation
-
-Browser automation, data collection, OCR and scheduled processes.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Backend & APIs
-
-Applications, authentication, databases, business logic and integrations.
+Python · Flask<br>
+PostgreSQL · Playwright
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### UI / UX
+<b>OMINY</b>
 
-Interfaces, prototypes, responsive experiences and product design.
+<br><br>
+
+Digital ecosystem<br>
+focused on business<br>
+management systems<br>
+and products.
+
+<br><br>
+
+UI/UX · Web · Firebase
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### Infrastructure
+<b>MELI</b>
 
-Linux, VPS, Docker, Nginx, PostgreSQL, HTTPS and deployment.
+<br><br>
+
+Personalized digital<br>
+experiences for couples<br>
+and friends.
+
+<br><br>
+
+Web · Design · Digital Products
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### Digital Products
+<b>AUREA BEAUTY</b>
 
-Experimental ideas, personalized experiences and solutions for real users.
+<br><br>
+
+Beauty e-commerce<br>
+concept with focus<br>
+on visual experience.
+
+<br><br>
+
+UI/UX · E-commerce · Web
 
 </td>
 </tr>
 </table>
 
----
-
-## `> tech_stack`
-
-### Languages
-
-<div align="center">
-
-<img width="50" src="https://skillicons.dev/icons?i=python"/>
-<img width="50" src="https://skillicons.dev/icons?i=js"/>
-<img width="50" src="https://skillicons.dev/icons?i=html"/>
-<img width="50" src="https://skillicons.dev/icons?i=css"/>
-<img width="50" src="https://skillicons.dev/icons?i=java"/>
-<img width="50" src="https://skillicons.dev/icons?i=postgres"/>
-
-</div>
-
-### Backend & Data
-
-<div align="center">
-
-<img width="50" src="https://skillicons.dev/icons?i=flask"/>
-<img width="50" src="https://skillicons.dev/icons?i=postgres"/>
-<img width="50" src="https://skillicons.dev/icons?i=firebase"/>
-<img width="50" src="https://skillicons.dev/icons?i=sqlalchemy"/>
-
-</div>
-
-### Automation & Tools
-
-<div align="center">
-
-<img width="50" src="https://skillicons.dev/icons?i=python"/>
-<img width="50" src="https://skillicons.dev/icons?i=selenium"/>
-<img width="50" src="https://skillicons.dev/icons?i=git"/>
-<img width="50" src="https://skillicons.dev/icons?i=github"/>
-<img width="50" src="https://skillicons.dev/icons?i=vscode"/>
-
-</div>
-
-### Infrastructure
-
-<div align="center">
-
-<img width="50" src="https://skillicons.dev/icons?i=linux"/>
-<img width="50" src="https://skillicons.dev/icons?i=ubuntu"/>
-<img width="50" src="https://skillicons.dev/icons?i=docker"/>
-<img width="50" src="https://skillicons.dev/icons?i=nginx"/>
-<img width="50" src="https://skillicons.dev/icons?i=postgres"/>
-<img width="50" src="https://skillicons.dev/icons?i=git"/>
-
-</div>
-
-### Design
-
-<div align="center">
-
-<img width="50" src="https://skillicons.dev/icons?i=figma"/>
-<img width="50" src="https://skillicons.dev/icons?i=canva"/>
-
-</div>
-
-<br>
-
-**Also worked with:**  
-`jQuery` · `Firestore` · `Firebase Auth` · `Flask-Login` · `Flask-Migrate` · `Playwright` · `Tesseract OCR` · `PWA` · `Elementor` · `Android Studio` · `Nginx` · `UFW` · `Certbot` · `Fail2Ban` · `systemd`
-
----
-
-## `> featured_projects`
-
-### `01` — Radar Bioma
-
-A system focused on monitoring and automating the consultation of CAR records.
-
-**Stack:** Python · Flask · PostgreSQL · Playwright · Docker · Linux · Nginx
-
-**Highlights:**
-- Authentication and user management
-- CAR registration and monitoring
-- Automated SIMCAR consultation
-- Business rules and status processing
-- Alerts
-- Scheduled automation
-- PDF generation
-- VPS deployment
-
----
-
-### `02` — Ominy
-
-A digital product ecosystem focused on business management systems.
-
-**Stack:** HTML · CSS · JavaScript · UI/UX · Figma · Firebase
-
-Focused on creating practical systems with a strong visual identity and simple user experience.
-
----
-
-### `03` — Meli
-
-A digital product concept focused on personalized experiences for couples and friends.
-
-**Products:**
-- Personalized mini-sites
-- Interactive games
-- Digital gifts
-- Printable designs
-
-A project where technology, design and creativity come together.
-
----
-
-### `04` — Aurea Beauty
-
-A personalized beauty e-commerce concept combining product presentation, interface design and digital commerce.
-
-**Focus:** UI/UX · E-commerce · Responsive Web
-
----
-
-## `> currently_learning`
-
-```text
-Software Engineering
-        ↓
-Backend Architecture
-        ↓
-Automation & Integrations
-        ↓
-DevOps & Infrastructure
-        ↓
-Product Design
-```
-
-Currently deepening my knowledge in software architecture, backend development, infrastructure and building scalable real-world applications.
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauanykamily18-dev&theme=nord_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauanykamily18-dev&theme=nord_dark"/>
-
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauanykamily18-dev&theme=nord_dark"/>
+<samp>
+
+<b>Currently exploring</b>
+
+<br><br>
+
+Software Architecture · Backend Development · Automation<br>
+DevOps · Infrastructure · Product Design
+
+</samp>
 
 </div>
 
----
-
-## `> contribution_activity`
+<br>
 
 <div align="center">
 
@@ -308,22 +356,28 @@ Currently deepening my knowledge in software architecture, backend development, 
 
 </div>
 
----
+<br>
 
-## `> let's_connect`
+##
+
+<br>
 
 <div align="center">
 
 <a href="SEU_LINKEDIN_AQUI">
-<img src="https://img.shields.io/badge/LinkedIn-5cadc0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=5cadc0"/>
 </a>
 
 <a href="SEU_PORTFOLIO_AQUI">
-<img src="https://img.shields.io/badge/Portfolio-5cadc0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=5cadc0"/>
 </a>
 
 <a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/Email-5cadc0?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=5cadc0"/>
+</a>
+
+<a href="https://github.com/kauanykamily18-dev">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=5cadc0"/>
 </a>
 
 </div>
@@ -334,10 +388,12 @@ Currently deepening my knowledge in software architecture, backend development, 
 
 <samp>
 
-"Build something that makes people stop and think."
+♡ build different · create useful things · keep learning ♡
 
 </samp>
 
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
