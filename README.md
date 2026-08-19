@@ -21,12 +21,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=I'm+from+Brazil;I'm+a+Software+Engineering+student;I+build+web+systems+and+automation;I+also+care+about+UI%2FUX;Always+learning%2C+building+and+trying+something+different." alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <p align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkauanykamily18-dev&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p>
-</div>
-
 <br>
 
 <details align="center">
@@ -134,16 +128,6 @@
 
 <br>
 
-<div align="center">
-
-<samp><b>GITHUB TROPHIES</b></samp>
-
-<br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=kauanykamily18-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=6"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -152,17 +136,8 @@
     <picture>
       <source srcset="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
       <source srcset="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
-      <img src="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" alt="kauanykamily18-dev contributions" width="1000" />
     </picture>
   </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/kauanykamily18-dev/kauanykamily18-dev/snake-output/snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
