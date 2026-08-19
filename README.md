@@ -2,10 +2,9 @@
 
 <div align="center">
   <samp>
-      <br>
-      Olá, eu sou Kauany!
-      <br>
-    </b>
+    <br>
+    <b>Olá, eu sou Kauany!</b>
+    <br>
   </samp>
 </div>
 
@@ -51,25 +50,49 @@
 
 <br><br>
 
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Python-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/CSS.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Flask-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/PostgreSQL-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Firebase-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Docker.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Linux-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Github-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Figma-Dark.svg" />
+<!-- Languages -->
+
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Python-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/JavaScript.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Java-Dark.svg" />
+
+<!-- Web -->
+
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/HTML.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/CSS.svg" />
+
+<!-- Backend / Data -->
+
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Flask-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/PostgreSQL-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Firebase-Dark.svg" />
+
+<!-- DevOps -->
+
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Docker.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Linux-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Ubuntu-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Nginx.svg" />
+
+<!-- Tools -->
+
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Git.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Github-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/GitHubActions.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/VSCode-Dark.svg" />
+
+<!-- Design -->
+
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Figma-Dark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/AndroidStudio-Dark.svg" />
 
 <br><br>
 
-  <samp>
-    Playwright · Tesseract OCR · SQLAlchemy · Flask-Login · Flask-Migrate ·
-    Firestore · PWA · Nginx · Ubuntu · Docker Compose
-  </samp>
+<samp>
+Playwright · Tesseract OCR · SQLAlchemy · Flask-Login · Flask-Migrate ·
+Firestore · Firebase Auth · jQuery · PWA · Docker Compose ·
+Nginx · Ubuntu · UFW · Certbot · Fail2Ban · SSH · systemd
+</samp>
 
 </div>
 
@@ -97,47 +120,21 @@
 
 <br><br>
 
-  <a href="https://github.com/kauanykamily18-dev">
-    <img src="https://img.shields.io/badge/Radar%20Bioma-081a43?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/kauanykamily18-dev">
+  <img src="https://img.shields.io/badge/Radar%20Bioma-081a43?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/kauanykamily18-dev">
-    <img src="https://img.shields.io/badge/Ominy-081a43?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/kauanykamily18-dev">
+  <img src="https://img.shields.io/badge/Ominy-081a43?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/kauanykamily18-dev">
-    <img src="https://img.shields.io/badge/Meli-081a43?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/kauanykamily18-dev">
+  <img src="https://img.shields.io/badge/Meli-081a43?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/kauanykamily18-dev">
-    <img src="https://img.shields.io/badge/Aurea%20Beauty-081a43?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <samp>
-    <b>Currently learning:</b>
-    software architecture · backend · automation · infrastructure
-  </samp>
-
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-
-  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-    <picture>
-      <source srcset="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
-    </picture>
-  </a>
+<a href="https://github.com/kauanykamily18-dev">
+  <img src="https://img.shields.io/badge/Aurea%20Beauty-081a43?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -145,17 +142,10 @@
 
 <div align="center">
 
-  <a href="SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff"/>
-  </a>
-
-  <a href="SEU_PORTFOLIO_AQUI">
-    <img src="https://img.shields.io/badge/Portfolio-2e3440?style=for-the-badge&logo=google-chrome&logoColor=fff"/>
-  </a>
-
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff"/>
-  </a>
+<samp>
+  <b>Currently learning:</b>
+  software architecture · backend · automation · infrastructure
+</samp>
 
 </div>
 
@@ -163,22 +153,50 @@
 
 <div align="center">
 
-  <samp>
-    ♡ <a href="https://github.com/kauanykamily18-dev">github</a>
-    ⊹
-    <a href="SEU_PORTFOLIO_AQUI">portfolio</a>
-    ⊹
-    <a href="SEU_LINKEDIN_AQUI">linkedin</a>
-    ♡
-  </samp>
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=dark&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=kauanykamily18-dev&color=081a43&theme=light&mode=mono&preset=none&animate=true&emptyColor=neutral" alt="kauanykamily18-dev contributions" width="1000" />
+  </picture>
+</a>
 
 </div>
 
 <br>
 
-</details>
+<div align="center">
+
+<a href="SEU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+</a>
+
+<a href="SEU_PORTFOLIO_AQUI">
+  <img src="https://img.shields.io/badge/Portfolio-2e3440?style=for-the-badge&logo=google-chrome&logoColor=fff"/>
+</a>
+
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff"/>
+</a>
+
+</div>
 
 <br>
+
+<div align="center">
+
+<samp>
+  ♡ <a href="https://github.com/kauanykamily18-dev">github</a>
+  ⊹
+  <a href="SEU_PORTFOLIO_AQUI">portfolio</a>
+  ⊹
+  <a href="SEU_LINKEDIN_AQUI">linkedin</a>
+  ♡
+</samp>
+
+</div>
+
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=081a43&height=100&section=footer"/>
+
