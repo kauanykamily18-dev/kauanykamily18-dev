@@ -12,9 +12,6 @@
   <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="160">
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/building%20ideas-black" />
-</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=I'm+from+Brazil;I'm+a+Software+Engineering+student;I+build+web+systems+and+automation;I+also+care+about+UI%2FUX;Always+learning%2C+building+and+trying+something+different." alt="Typing SVG"/>
@@ -37,8 +34,8 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauanykamily18-dev\&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauanykamily18-dev\&theme=nord_dark) |
 | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauanykamily18-dev\&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kauanykamily18-dev\&theme=nord)](https://git.io/streak-stats) |
-| :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauanykamily18-dev\&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauanykamily18-dev\&theme=nord_dark) | 
+| :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 
 </div>
 
@@ -78,7 +75,6 @@
 
 <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Git.svg" />
 <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Github-Dark.svg" />
-<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/GitHubActions.svg" />
 <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/VSCode-Dark.svg" />
 
 <!-- Design -->
