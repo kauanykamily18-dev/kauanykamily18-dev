@@ -2,17 +2,15 @@
 
 <div align="center">
   <samp>
-    <b>
-      SOFTWARE ENGINEERING STUDENT
       <br>
-      Olá, eu sou Kauany Kamily!
+      Olá, eu sou Kauany!
       <br>
     </b>
   </samp>
 </div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="180">
+  <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="160">
 </div>
 
 <div align="center">
