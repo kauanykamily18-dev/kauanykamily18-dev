@@ -396,4 +396,12 @@ DevOps · Infrastructure · Product Design
 
 <br>
 
+<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
+ <picture>
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=kauanykamily18-dev&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=kauanykamily18-dev&theme=light" media="(prefers-color-scheme: light)" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=kauanykamily18-dev&theme=light" alt="kauanykamily18-dev sakura contributions" width="1000" />
+</picture>
+</a>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
